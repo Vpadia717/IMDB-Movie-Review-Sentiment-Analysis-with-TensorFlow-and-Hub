@@ -1,6 +1,3 @@
-Certainly! Here's an updated version of the `README.md` file for the renamed Jupyter Notebook:
-
-````markdown
 # IMDB Movie Review Sentiment Analysis with TensorFlow and Hub
 
 This Jupyter Notebook demonstrates sentiment analysis on movie reviews using TensorFlow and pre-trained word embeddings. The code utilizes the IMDB movie reviews dataset to train a neural network model and predict the sentiment (positive or negative) expressed in a given review.
@@ -34,7 +31,6 @@ You can install the dependencies using pip:
 ```bash
 pip install tensorflow tensorflow_hub tensorflow_datasets numpy matplotlib
 ```
-````
 
 ## Usage
 
