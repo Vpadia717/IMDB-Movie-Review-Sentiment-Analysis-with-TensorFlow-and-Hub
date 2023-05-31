@@ -28,7 +28,7 @@ To run the Jupyter Notebook and reproduce the sentiment analysis, make sure you 
 
 You can install the dependencies using the following command:
 
-```bash
+```
 pip install tensorflow tensorflow_hub tensorflow_datasets numpy matplotlib
 ```
 
