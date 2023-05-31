@@ -34,7 +34,7 @@ pip install tensorflow tensorflow_hub tensorflow_datasets numpy matplotlib
 
 ## Usage
 
-1. Clone this repository or download the Jupyter Notebook file [](IMDB_Movie_Review_Sentiment_Analysis_with_TensorFlow_and_Hub.ipynb).
+1. Clone this repository or download the Jupyter Notebook file [IMDB Movie Review Sentiment Analysis with TensorFlow and Hub.ipynb](IMDB_Movie_Review_Sentiment_Analysis_with_TensorFlow_and_Hub.ipynb).
 2. Make sure you have the required dependencies installed (see the Installation section).
 3. Open the Jupyter Notebook in your preferred environment (Jupyter Notebook, JupyterLab, Google Colab, etc.).
 4. Run the cells in the notebook sequentially to execute the code step by step.
